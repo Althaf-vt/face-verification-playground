@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.env
+.env.local
+
+# Backend temp storage (runtime artifacts)
+backend/temp/images/*
+backend/temp/logs.json
+backend/temp/metadata.json
+!backend/temp/.gitkeep
+
+# Model weights (large — download via script)
+frontend/public/models/**/*
+!frontend/public/models/.gitkeep
