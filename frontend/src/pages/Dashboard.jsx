@@ -42,12 +42,10 @@ export default function Dashboard() {
     <div className="space-y-8 animate-in fade-in duration-500">
       <section>
         <h2 className="text-2xl sm:text-3xl font-semibold tracking-tight mb-2">
-          Biometric QA Laboratory
+          Face Verification Playground
         </h2>
         <p className="text-gray-400 max-w-2xl text-sm sm:text-base">
-          Internal testing suite for evaluating face-api.js suitability for LGBTQIA+
-          matrimony platform onboarding — selfie verification, liveness, and catfish
-          prevention workflows.
+          Realtime face detection, matching, and liveness testing
         </p>
       </section>
 

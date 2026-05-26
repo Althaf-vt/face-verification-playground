@@ -19,11 +19,11 @@ export default function Layout() {
           <div className="flex items-center justify-between h-14 sm:h-16">
             <div className="flex items-center gap-3">
               <div className="w-8 h-8 rounded-xl bg-gradient-to-br from-accent to-purple-600 flex items-center justify-center text-sm font-bold">
-                BQ
+                FV
               </div>
               <div>
                 <h1 className="text-sm sm:text-base font-semibold tracking-tight">
-                  Biometric QA Lab
+                  Face Verification Playground
                 </h1>
                 <p className="text-[10px] sm:text-xs text-gray-500 hidden sm:block">
                   face-api.js evaluation suite
