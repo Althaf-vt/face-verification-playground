@@ -11,13 +11,13 @@ Experimental playground for testing face-api.js features like realtime face dete
 
 ## Tech Stack
 
-| Layer | Technology |
-| --- | --- |
-| Frontend | React, Vite, TailwindCSS |
-| Face Detection | face-api.js |
-| Webcam | react-webcam |
-| Backend | Node.js, Express |
-| Storage | Local temp storage |
+| Layer          | Technology                 |
+| -------------- | -------------------------- |
+| Frontend       | React, Vite, TailwindCSS   |
+| Face Detection | face-api.js                |
+| Webcam         | react-webcam               |
+| Backend        | Node.js, Express           |
+| Storage        | Local temp storage         |
 
 ---
 
